@@ -1,10 +1,12 @@
 body {
   text-align: center;
   background-color: #283149;
+  display: block;
+  margin-top: 16%;
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 8rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
@@ -13,35 +15,37 @@ h1 {
 
 footer {
   color: #DBEDF3;
+  padding-top: 60px;
+  font-size: 3rem;
   font-family: sans-serif;
 }
 
 .w {
-  background-image: url("/drums_band_with_js/images/tom3.png");
+  background-image: url("../images/tom3.png");
 }
 
 .a {
-  background-image: url("/drums_band_with_js/images/snare.png");
+  background-image: url("../images/snare.png");
 }
 
 .s {
-  background-image: url("/drums_band_with_js/images/tom1.png");
+  background-image: url("../images/tom1.png");
 }
 
 .d {
-  background-image: url("/drums_band_with_js/images/kick.png");
+  background-image: url("../images/kick.png");
 }
 
 .j {
-  background-image: url("/drums_band_with_js/images/tom2.png");
+  background-image: url("../images/tom2.png");
 }
 
 .k {
-  background-image: url("/drums_band_with_js/images/crash.png");
+  background-image: url("../images/crash.png");
 }
 
 .l {
-  background-image: url("/drums_band_with_js/images/tom4.png");
+  background-image: url("../images/tom4.png");
 }
 
 .set {
